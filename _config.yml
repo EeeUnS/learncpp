@@ -1,7 +1,7 @@
 # Configurations
-title:            OS study
-longtitle:        OS study
-author:           42seoul
+title:            learncpp
+longtitle:        learncpp
+author:           
 email:            
 description: >
   
@@ -10,7 +10,7 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              
-baseurl:          '/os-study'
+baseurl:          '/learncpp'
 rss:              RSS
 
 toc:
