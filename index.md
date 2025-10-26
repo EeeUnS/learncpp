@@ -3,77 +3,77 @@ layout: home
 ---
 
 - C 추가 챙겨야할 문법
-- 지역변수, 전역변수, static 변수
-- 비트연산자
-- enum 열거형
-- const
-- sizeof
-- goto
-- static
-- union
-- sizeof
-- 배열, 포인터 : 메모리 이해
-- 포인터 연산
-- 메모리 패딩 및 엔디안
-- 함수 포인터
-- C의 문자열 상세
-- malloc, free : 힙 메모리 / 스택 메모리
-- 말록랩 진행할지
+  - 지역변수, 전역변수, static 변수
+  - 비트연산자
+  - enum 열거형
+  - const
+  - sizeof
+  - goto
+  - static
+  - union
+  - sizeof
+  - 배열, 포인터 : 메모리 이해
+  - 포인터 연산
+  - 메모리 패딩 및 엔디안
+  - 함수 포인터
+  - C의 문자열 상세
+  - malloc, free : 힙 메모리 / 스택 메모리
+  - 말록랩 진행할지
 - 자료구조 (C)
-- 구현
-- 스택
-- 큐
-- 더블 링크드 리스트
-- 벡터
-- 해시맵
+  - 구현
+  - 스택
+  - 큐
+  - 더블 링크드 리스트
+  - 벡터
+  - 해시맵
 - 매크로
 - 프로세스 구조
 - Cpp 기본 문법
-- C와 다른 기본사항
-- 디폴트 파라미터
-- 함수 오버로딩
-- 레퍼런스
-- iostream
-- nullptr
+  - C와 다른 기본사항
+  - 디폴트 파라미터
+  - 함수 오버로딩
+  - 레퍼런스
+  - iostream
+  - nullptr
 - 클래스
-- 생성자, 소멸자
-- new delete
-- 과제 :
-- string class 만들기
-- string builder
-- friend
+  - 생성자, 소멸자
+  - new delete
+  - 과제 :
+    - string class 만들기
+    - string builder
+  - friend
 - Cpp 고급 문법
-- 템플릿
-- 자료구조 템플릿 클래스로 변경
-- 과제 : vector 구현
+  - 템플릿
+  - 자료구조 템플릿 클래스로 변경
+  - 과제 : vector 구현
 - 클래스 고급
 - 상속
-- 오버라이딩
-- keyword : override, final
-- 가상 테이블 : 오버라이딩 구조
-- C로 했을 때
-- 다중상속
-- 추상클래스
-- 인터페이스
-- static 함수, 변수
+  - 오버라이딩
+  - keyword : override, final
+  - 가상 테이블 : 오버라이딩 구조
+  - C로 했을 때
+  - 다중상속
+  - 추상클래스
+  - 인터페이스
+  - static 함수, 변수
 - STL
-- map
-- set
-- queue
-- stack
-- list
-- unordered_map
-- unordered_set
-- static_assert
-- smart_pointer
-- uniqueu_ptr
-- shared_ptr
-- shared_ptr 구조체크
-- weak_ptr
+  - map
+  - set
+  - queue
+  - stack
+  - list
+  - unordered_map
+  - unordered_set
+  - static_assert
+  - smart_pointer
+  - uniqueu_ptr
+  - shared_ptr
+  - shared_ptr 구조체크
+  - weak_ptr
 - 운영체제
-- 메모리 계층
-- thread
-- 동시성 프로그래밍
+  - 메모리 계층
+  - thread
+  - 동시성 프로그래밍
 - 중간중간 보충 필요한것 : 디버깅
 - 세세한 부분 가감 예정
 - 코딩 표준
